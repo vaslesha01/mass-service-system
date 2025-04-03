@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068DED22-7A23-430A-8698-2C17AEA46CF9}|MSS.vcxproj|C:\\Users\\user\\source\\repos\\MSS\\Simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{068DED22-7A23-430A-8698-2C17AEA46CF9}|MSS.vcxproj|solutionrelative:Simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DED22-7A23-430A-8698-2C17AEA46CF9}|MSS.vcxproj|C:\\Users\\user\\source\\repos\\MSS\\Simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{068DED22-7A23-430A-8698-2C17AEA46CF9}|MSS.vcxproj|solutionrelative:Simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DED22-7A23-430A-8698-2C17AEA46CF9}|MSS.vcxproj|C:\\Users\\user\\source\\repos\\MSS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{068DED22-7A23-430A-8698-2C17AEA46CF9}|MSS.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MSS\\Simulation.hpp",
+              "RelativeDocumentMoniker": "Simulation.hpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MSS\\Simulation.hpp",
+              "RelativeToolTip": "Simulation.hpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAewLEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-23T13:53:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simulation.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MSS\\Simulation.cpp",
+              "RelativeDocumentMoniker": "Simulation.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MSS\\Simulation.cpp",
+              "RelativeToolTip": "Simulation.cpp",
+              "ViewState": "AgIAABYCAAAAAAAAAAAAADcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T13:53:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MSS\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MSS\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T13:52:54.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
